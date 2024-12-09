@@ -1,9 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drone%20To%20You&fontSize=90)<br/>
 :school: 팀:형님즈(Brothers)
 =============
+
+
 :mega:  프로젝트 소개
 ------------
 드론시장과  Customer to Customer 개념을 융합하여 드론을 쉽게 접하게 하는 사이트 제작<br/><br/>
+
+
+:pushpin: 주요기능
+------------
+<ul>
+  <li>게시판기능을 통해 소비자간의 드론거래 기능</li>
+  <li>나만의 드론을 제작하기위한 맞춤제작 폼 작성</li>
+  <li>나의 게시글에 요청된 내용을 확인후 요청에대한 수락과 거절</li>
+</ul><br/><br/>
 
 :hourglass:  제작기간
 ------------
@@ -29,21 +40,17 @@
 ![로고명](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![로고명](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![로고명](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
-<br/>
-<br/>
+![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)<br/><br/>
 :art:FrontEnd:art:<br/>
 ![로고명](https://img.shields.io/badge/JAVA%20SCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![로고명](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![로고명](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6)
-![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
-<br/>
-<br/>
+![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)<br/><br/>
 :wrench:Drone:wrench:<br/>
-![로고명](https://img.shields.io/badge/dassaultsystemes%20-005386.svg?&style=for-the-badge&logo=dassaultsystemes&logoColor=black)
-<br/>
-<br/>
-:pushpin: 작업내용
+![로고명](https://img.shields.io/badge/dassaultsystemes%20-005386.svg?&style=for-the-badge&logo=dassaultsystemes&logoColor=black)<br/><br/>
+
+
+✍️ 작업내용
 ------------
 |이름|내용|
 |------|---|
@@ -55,5 +62,3 @@
 |**소현수**|드론 디자인|
 |**정의찬**|부품 설계|<br/>
 
-:pushpin: 주요기능
-------------
