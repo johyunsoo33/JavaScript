@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drone%20To%20You&fontSize=90)<br/>
 :school: 팀:형님즈(Brothers)
 =============
-:mega:프로젝트 소개
+:mega:  프로젝트 소개
 ------------
 드론시장과  Customer to Customer 개념을 융합하여 드론을 쉽게 접하게 하는 사이트 제작<br/><br/>
 
-:hourglass:제작기간
+:hourglass:  제작기간
 ------------
 2024년 09월 03일 ~ 2024년 12월 09일<br/><br/>
 
