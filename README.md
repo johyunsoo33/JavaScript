@@ -30,7 +30,7 @@
 <br/>
 <br/>
 :wrench:Drone:wrench:<br/>
-![로고명](https://img.shields.io/badge/dassaultsystemes%20SCRIPT-F7DF1E.svg?&style=for-the-badge&logo=dassaultsystemes&logoColor=black)
+![로고명](https://img.shields.io/badge/dassaultsystemes%20-005386.svg?&style=for-the-badge&logo=dassaultsystemes&logoColor=black)
 
 <br/>
 <br/>
