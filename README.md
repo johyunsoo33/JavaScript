@@ -64,9 +64,9 @@
 📚 자료출처
 ------------
 <ul>이미지
-  <li>[*DJI 스토어*](https://droneview.shop/)  ></li>
-  <li>[*AliExpress*](https://ko.aliexpress.com/) </li>
-  <li>[*엑스캅터 드론장*](https://xcopter.com/)  </li>
+  <li>[*DJI 스토어*](https://droneview.shop/)</li>
+  <li>[*AliExpress*](https://ko.aliexpress.com/)</li>
+  <li>[*엑스캅터 드론장*](https://xcopter.com/)</li>
   <li>[*펠콘샵*](https://www.falconshop.co.kr/shop/main/index.php)</li>
 </ul>
 
