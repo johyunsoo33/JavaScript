@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-:pushpin: 사용된 기술
+:pushpin: Tech Stack
 ------------
 :computer:BackEnd:computer:<br/>
 ![로고명](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
