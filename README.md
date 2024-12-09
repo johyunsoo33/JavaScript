@@ -20,7 +20,6 @@
 ![로고명](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![로고명](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
-![로고명](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 <br/>
 :art:FrontEnd:art:<br/>
