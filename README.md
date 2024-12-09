@@ -14,7 +14,7 @@
 사용된 기술
 ------------
 :computer:백엔드:computer:<br/>
-![로고명](https://img.shields.io/badge/spring.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![로고명](https://img.shields.io/badge/spring-#6DB33F?&style=for-the-badge&logo=javascript&logoColor=black)
 
 작업내용
 ------------
