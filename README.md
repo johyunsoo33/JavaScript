@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drone%20To%20You&fontSize=90)<br/>
-팀:형님즈(Brothers)
+:pushpin: 팀:형님즈(Brothers)
 =============
 |팀원명|직무|
 |------|---|
@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-사용된 기술
+:pushpin: 사용된 기술
 ------------
 :computer:BackEnd:computer:<br/>
 ![로고명](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
@@ -33,7 +33,7 @@
 ![로고명](https://img.shields.io/badge/dassaultsystemes%20-005386.svg?&style=for-the-badge&logo=dassaultsystemes&logoColor=black)
 <br/>
 <br/>
-작업내용
+:pushpin: 작업내용
 ------------
 |이름|내용|
 |------|---|
