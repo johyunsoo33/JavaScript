@@ -13,8 +13,8 @@
 
 사용된 기술
 ------------
-:computer:백엔드:computer:
-![로고명](https://img.shields.io/badge/JAVA%20SCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+:computer:백엔드:computer:<br/>
+![로고명](https://img.shields.io/badge/spring.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 
 작업내용
 ------------
