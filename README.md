@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drone%20To%20You&fontSize=90)<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drone%20To%20You&animation=fadeIn 0.5s&fontSize=90)<br/>
 :school: 팀:형님즈(Brothers)
 =============
 
