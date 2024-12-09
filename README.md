@@ -19,7 +19,9 @@
 ![로고명](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
 <br/>
-:computer:프론트엔드:computer:<br/>
+<br/>
+<br/>
+:art:프론트엔드:art:<br/>
 ![로고명](https://img.shields.io/badge/JAVA%20SCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![로고명](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![로고명](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6)
