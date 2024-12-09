@@ -64,10 +64,10 @@
 📚 자료출처
 ------------
 - **이미지**  
-  - 🛍️ [**DJI 스토어**](https://www.dji.com/)  
-  - 🌐 [**AliExpress**](https://www.aliexpress.com/)  
-  - 🚁 [**엑스캅터 드론장**](https://www.xcopters.com/)  
-  - 🛒 [**펠콘샵**](https://www.pelkonshop.com/)
+  - 🛍️ [**DJI 스토어**](https://store.dji.com/kr)  
+  - 🌐 [**AliExpress**](https://ko.aliexpress.com/)  
+  - 🚁 [**엑스캅터 드론장**](https://xcopter.com/)  
+  - 🛒 [**펠콘샵**](https://www.falconshop.co.kr/shop/main/index.php)
 
 <ul>
   <li></li>
