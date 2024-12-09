@@ -16,6 +16,7 @@
 :computer:백엔드:computer:<br/>
 ![로고명](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![로고명](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![로고명](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 작업내용
 ------------
 |이름|내용|
