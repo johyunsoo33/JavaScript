@@ -1,0 +1,20 @@
+const readline = require('readline');
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+let input = [];
+
+rl.on('line', function (line) {
+    input = line.split(' ');
+
+}).on('close', function () {
+    let str1 = input[0];
+    let str2 = input[1];
+
+    let answer = str1 + str2;
+    answer = answer.replace(/ /g, "");
+
+    console.log(answer);
+});
